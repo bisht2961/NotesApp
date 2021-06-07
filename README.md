@@ -1,7 +1,4 @@
 # Simple Note App 
-
-![Logo Image](https://github.com/bisht2961/NotesApp/blob/master/assets/logo.jpg)
-
 > This is a simple note taking app.
 <p float="left">
   <img src="https://github.com/bisht2961/NotesApp/blob/master/assets/Screenshot_1623048130.png" width="300" />
