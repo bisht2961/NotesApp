@@ -4,9 +4,9 @@
 
 > This is a simple note taking app.
 <p float="left">
-  <img src="https://github.com/bisht2961/NotesApp/blob/master/assets/Screenshot_1623048130.png" width="100" />
-  <img src="https://github.com/bisht2961/NotesApp/blob/master/assets/Screenshot_1623047923.png" width="100" /> 
-  <img src="https://github.com/bisht2961/NotesApp/blob/master/assets/Screenshot_1623048058.png" width="100" />
+  <img src="https://github.com/bisht2961/NotesApp/blob/master/assets/Screenshot_1623048130.png" width="300" />
+  <img src="https://github.com/bisht2961/NotesApp/blob/master/assets/Screenshot_1623047923.png" width="300" /> 
+  <img src="https://github.com/bisht2961/NotesApp/blob/master/assets/Screenshot_1623048058.png" width="300" />
 </p>
 
 ---
